@@ -1,0 +1,34 @@
+
+section>.screen-mockups{
+    text-align: center;
+}
+section>.screen-mockups img{
+    width: 85%;
+    
+}
+section .icon-communities{
+    margin: 10vw;
+}
+section .icon-communities img{
+    width: 8.5vw;
+    padding: 0 23vw;
+    margin-bottom: -13px;
+
+}
+
+section .icon-communities p>strong{
+    font-size: 13vw;
+    padding: 0 23vw;
+}
+section .icon-communities p span{
+    padding-left: 21vw;
+    font-size: 4vw;
+}
+.messages-sent{
+    text-align: center;
+    font-size: 4vw;
+}
+@media (min-width: 800px){
+    
+}
+
