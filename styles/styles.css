@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+:root{
+    -color-primary-1: hsl(322, 100%, 66%);
+    -color-primary-2: hsl(321, 100%, 78%);
+    -color-primary-3: hsl(0, 100%, 63%);
+    -color-titles: hsl(192, 100%, 9%);
+    -color-text-secundary: hsl(207, 100%, 98%);
+    /*En la fuente open sans el pesos a utilizar es de 700*/
+    -font-Headings: 'Open Sans', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    /*Esta fuente tiene los pesos 400 600 700*/
+}
